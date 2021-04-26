@@ -16,12 +16,13 @@
 
 ### Task:
     
-   * Build a machine learning model that predicts thickness at each site based on flowfactor, spacing, deposition time, and tool.
+   * Build a machine learning model that predicts thickness at each site based on flowfactor, spacing, deposition time, and tool.</blockquote>
     
-   *(Bonus) Build a generative model like VAE or GAN that would predict thickness profile for the whole wafer at once. For that you would need to convert site data to images using interpolation. Explain how you would assess the quality of interpolation.
+   *(Bonus) Build a generative model like VAE or GAN that would predict thickness profile for the whole wafer at once. For that you would need to convert site data to images using interpolation. Explain how you would assess the quality of interpolation.</blockquote>
     
-   *(Bonus) Ensure that the model is capable of meaningfully extrapolating 1 standard deviation outside of the ranges of parameters present in the data.
+   *(Bonus) Ensure that the model is capable of meaningfully extrapolating 1 standard deviation outside of the ranges of parameters present in the data.</blockquote>
     
-   *(Bonus) Build a physics-based model (preferably using simulations) for this process that would include temperature.
+   *(Bonus) Build a physics-based model (preferably using simulations) for this process that would include temperature.</blockquote>
+
 
 #### Files ; site_coordinates.csv + test_assignment_sim.csv
